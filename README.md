@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jarif-20
-- 👀 I’m interested in ...Data science, machine learning, softwere development
+- 👀 I’m interested in ...Data science, machine learning, software development
 - 🌱 I’m currently learning ...python3
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...mdjarif328@gmail.com
